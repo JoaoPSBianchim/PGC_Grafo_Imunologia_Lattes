@@ -1,0 +1,5 @@
+## Resumo do Projeto
+Este projeto de graduação propõe uma abordagem para a localização de experts baseada na análise estrutural de redes de colaboração extraídas da Plataforma Lattes. O estudo realiza uma análise comparativa entre diferentes metodologias: inicialmente, avaliam-se métricas clássicas de centralidade em grafos e algoritmos de análise de links (como HITS e PageRank); em seguida, investiga-se o uso de técnicas de aprendizado de representação latente (graph embeddings), especificamente o algoritmo Node2Vec, para capturar padrões estruturais complexos e similaridade vetorial. O objetivo principal é formalizar e avaliar um conjunto de técnicas para a caracterização de expertise, discutindo as vantagens e limitações das abordagens topológicas clássicas em comparação aos modelos baseados em vetorização
+
+## Organização
+Na pasta src há os artefatos usados e gerados para o desenvolvimento do projeto. Desenvolvimento que está dividido em dois scripts. Um com os cálculos e estudos desenvolvidos para o projeto em si, o outro voltado para permitir uma visualização da rede e das métricas geradas
